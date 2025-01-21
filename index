@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="eng">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="CGI Product Rendering and Motion Graphics Services | 3D Rendering and CGI product photography. Virtual Product Photography. Creative 3D Photography for Advertising."
+    />
+    <meta
+      name="keywords"
+      content="CGI Photography, 3D, rendering, product_photography, CG, render, motion graphics services, freelance "
+    />
+    <meta name="author" content="Anastasia Orlova" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700;800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./indexcss.css" />
+    <title>CGI PRODUCT PHOTOGRAPHY</title>
+   
+  </head>
+  <body>
+    <!-- Header -->
+  
+    <header><!--
+      <div class="tophead">
+      <p>Sign up and get Color trend report 2024 for free!</p>
+      </div>-->
+      <div class="content">
+        <a href="index.html" class="desktop logo"><img class="logotype" src ="./logoana.png"></a>
+        <nav class="desktop">
+          <img id="hamburger-icon" src ="./menu.png">
+          <ul class="hamburger">
+            <li id="closeburger">X</li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="#porta">Portfolio</a></li>
+            <li><a href="./prices.html">Prices</a></li>
+            <li><a href="./pro3d.html">3D</a></li>
+            <li><a href="#faqs">FAQ</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="main">
+      <!-- Banner section -->
+      <div class="banner">
+        <div class="content">
+          <h1 id="try">CGI GENERALIST & 3D <br>MOTION DESIGNER<span class="bold"> <br>ANASTASIA ORLOVA </span></h1>
+          <p>3D Rendering. Virtual CGI Product Photography. Creative Advertising. Viral VFX.</p>
+          <div class="inlinebuts">
+          <a href="./contact.html" id="jsbut" class="button">Send message</a>
+          <a href="https://bit.ly/4bjtnpV" id="jsbut" class="buttonother">WhatsApp</a>
+        </div>
+        </div>
+      </div>
+    </div>
+
+    <!--Services-->
+    <div class="content">
+      <div class="services">
+      <div class="help">
+        <h2>ABOUT ME.</h2>
+        <p>I help my clients through visual content.
+
+          I can sell a pen, an airplane wing or psychology training for chihuahuas. It won't be boring, so buckle up. </p>
+        <a href="./contact.html" id="jsbut" class="button">Get free consultation</a>
+        <a href="./PRICES.html" id="jsbut" class="buttonother">See prices</a>
+        <div class="logos">
+            <div class="field">
+                <h1>5</h1>
+          <p>years in marketing</p>
+        </div>
+        <div class="field">
+            <h1>4</h1>
+      <p>years in design</p>
+    </div>
+    <div class="field">
+        <h1>100%</h1>
+  <p>of happy clients</p>
+</div>
+<div class="field">
+    <h1>3</h1>
+<p>start-ups</p>
+</div>
+        </div>
+      </div>
+      <div class="squares">
+        <div class="container">
+          <div class="square1">
+            <div class="texts">
+           
+            <h3>MARKETPLACES</h3>
+            <p> catalog images, 360° animation, product card, marketplace card design</p>
+           
+            <!--
+            <a href="./webdesign.html"> <button class="CTA"><span class="words">Learn more</span> <span class="learn"> →</span></button></a>-->
+          </div>
+         
+          </div>
+
+          <div class="square2">
+            <div class="texts">
+           
+            <h3>ADVERTISING</h3>
+            <p> advertising, creative direction</p>
+            <!--
+            <a href="./socials.html"><button class="CTA"><span class="words">Learn more</span><span class="learn"> →</span></button></a>-->
+            </div>
+          </div>
+
+          <div class="square3">
+            <div class="texts">
+            
+            <h3>SOCIAL MEDIA</h3>
+            <p> creative content, 3d product shoot for your business, curated marketing direction </p>
+            <!--
+            <a href="./Graphics.html"> <button class="CTA"><span class="words">Learn more</span> <span class="learn"> →</span></button></a>-->
+            </div>
+          </div>
+
+        
+        </div>
+      </div>
+      </div>
+      <hr class="line">
+    </div>
+
+    
+    <div class="tryit">
+      <div class="content">
+        <!---
+        <H2>
+          ВИДЫ СЪЕМКИ.</H2>-->
+          <h2>SERVICES.</h2>
+      <div class="containernew">
+        
+        <div class="blob">
+          <div class="texts">
+         
+          <h3>BEAUTY PRODUCT RENDER</h3>
+          
+          <a href="./skincareshoot.html"> <button class="CTA"><span class="words">view work  </span><span class="learn"> →</span></button></a>
+        </div>
+        </div>
+
+        <div class="blob1">
+          <div class="texts">
+         
+          <h3>TECHNICAL RENDER</h3>
+          
+          <a href="./techdevices-render.html"><button class="CTA"><span class="words">view work  </span><span class="learn"> →</span></button></a>
+          </div>
+        </div>
+
+        <div class="blob2">
+          <div class="texts">
+          
+          <h3>JEWELRY RENDER</h3>
+          
+          <a href="./jewelryshoot.html"> <button class="CTA"><span class="words">view work  </span> <span class="learn"> →</span></button></a>
+          </div>
+        </div>
+        <div class="blob4">
+          <div class="texts">
+         
+          <h3>MOTION GRAPHICS</h3>
+          
+          <a href="./skincareshoot.html"> <button class="CTA"><span class="words">view work  </span><span class="learn"> →</span></button></a>
+        </div>
+        </div>
+
+        <div class="blob3">
+          <div class="texts">
+         
+          <h3>VFX</h3>
+          
+          <a href="./techdevices-render.html"><button class="CTA"><span class="words">view work  </span><span class="learn"> →</span></button></a>
+          </div>
+        </div>
+
+   
+
+      
+
+      
+      </div>
+
+    </div>
+    </div>
+    <!-- Portfolio-->
+    
+    <div class="content">
+      <div id="porta" class="selected">
+        <h2>PORTFOLIO.</h2>
+      </div>
+      <div class="portfolio">
+  
+        <div class="box">
+          <div class="wrap">
+          <img
+          src="./LANEIGE_DROPS-cgi-3d-render.png"
+          alt="Nordhom e-commerce website design"
+        /></div>
+          <h4><a href="./laneige.html">LANEIGE →</a></h4>
+          <p>cgi / creative direction</p>
+        </div>
+
+        <div class="box">
+          <div class="wrap">
+          <img
+          src="./hairhealth-3d-productphotography-shampoo.png"
+          alt="Phone screen with a fintech ui design"
+        /></div>
+          <h4><a href="./hairhealth.html">HAIR HEALTH ESSENTIALS →</a></h4>
+          <p>cgi / product photography  </p>
+        </div>
+        
+        <div class="box">
+          <div class="wrap">
+          <img
+          src="./CHERRY3.png"
+          alt="Laneige moisturizer Cg product photography and 3d rendering"
+        /></div>
+          <h4><a href="./laneige.html">BOTTEGA VENETA →</a></h4>
+          <p>cgi / 3d / creative direction</p>
+        </div>
+        <div class="box">
+          <div class="wrap">
+          <img
+          src="./1.final-main.png"
+          alt="Phone screen with a fintech ui design"
+        /></div>
+          <h4><a href="./ANYUISH.html">GILD&GRACE →</a></h4>
+          <p>cgi / product photography </p>
+        </div>
+     
+        <div class="box">
+          <div class="wrap">
+          <img
+          src="./finalring1.png"
+          alt="Phone screen with a fintech ui design"
+        /></div>
+          <h4><a href="./VANCLEEF.html">VAN CLEEF & ARPELS →</a></h4>
+          <p>cgi / product photography  </p>
+        </div>
+        <div class="box">
+          <div class="wrap">
+          <img
+          src="./ksili-cgi-3d-product-photography-anastasia-orlova.png"
+          alt="Phone screen with a fintech ui design"
+        /></div>
+          <h4><a href="./ksili.html">KSILI →</a></h4>
+          <p>cgi / product photography  </p>
+        </div>
+      
+
+      </div>
+    </div>
+
+
+<!--No need-->
+<div class="needs">
+  <div class="content">
+<h2>BENEFITS OF USING 3D, AND HOW THAT WORKS</h2>
+<div class="dgrid">
+  <div class="dbox">
+    <div class="noneed">
+      <img src="./cross.png">
+      <p>No need to buy props
+       </p>
+       <img src="./cross.png">
+      <p>
+        No need to rent a studio</p>
+        <img src="./cross.png">
+      <p>
+        No need to send me your products
+       </p>
+       <img src="./cross.png">
+      <p>
+        No need to pay for a stylist</p>
+    </div>
+  </div>
+  <div class="dbox">
+    <div class="noneed">
+      <img src="./check-mark.png">
+      <p>Send me photos of the product from different angles
+       </p>
+       <img src="./check-mark.png">
+      <p>
+        Send me the logo files
+        </p>
+        <img src="./check-mark.png">
+      <p>
+        Agree on the creative direction
+       </p>
+       <img src="./check-mark.png">
+      <p>
+        Get great results to wow your customers</p>
+    </div>
+  </div>
+</div>
+</div>
+
+</div>
+
+
+    <!--Last-->
+    <div class="last">
+      <div class = "content">
+        <div class="inline">
+        <h2>COLORFUL 3D VISUALS FOR <span class="bold"> EPIC</span> BRANDS.
+          TRANSFROM YOUR IDEAS INTO STUNNING<span class="bold1"> 3D REALITIES </span></h2></div>
+            <div class="kontakt">
+             <a href="./contact.html" id="bottombut" class="buttonother">Get consultation</a>
+             <a href="./prices.html" id="bottombut" class="buttonother">See prices</a>
+             <a href="https://www.instagram.com/cg_product_photography" id="bottombut" class="buttonother">Instagram</a>
+             <a href="#faqs" id="bottombut" class="buttonother">FAQ</a>
+            </div> 
+            <!--
+            <div class="followicons">
+                <a href="https://www.behance.net/anaorlova"><img src="./behance.png"></a>
+                <a href="https://www.instagram.com/cg_product_photography"><img src="./instagram.png"></a>
+                <a href="https://www.linkedin.com/in/anastasia-orlova-14393296/"><img src="./facebook.png"></a>
+              </div>-->
+         
+        
+      </div>
+    </div>
+<div class="reviews">
+  <div class="content">
+    <h2>TESTIMONIALS.</h2>
+  <div class="feedbackgrid">
+    <div class="feed">
+
+      <p id="fat">Client: Tay, Auraleus
+
+        </p>
+
+        <p>
+        
+          Anastasia did such a wonderful job. She really went above & beyond for me, providing different options for me to choose from and giving me additional ideas with her own creativity that matched the vibe I was trying to create perfectly. She also entertained my ultra detailed revisions. I'm satisfied as I ended up with some stellar images. Would definitely reach out to her again!</bold>
+    </div>
+    <div class="feed">
+      <p id="fat">Client: Peter, Ksili </p>
+
+      <p>Thank you, Anastasia! Can't say enough how lucky we are to have found you. We've been getting compliments on the content non-stop since we launched. People say they just want to zoom in and see all the tiny details.  
+      </p>
+    </div>
+    <div class="feed">
+      <p id="fat">Client: David, Hair Health Essentials</p>
+
+        <p>Excellent, from start to finish! Quick delivery, exceptional quality and knew what we were trying to achieve from the very beginning. Exceptional communication and would highly recommend. We will continue to collaborate with Anastasia more projects.
+        
+</p>
+         </div>
+
+  </div>
+</div>
+</div>
+<!--
+ <div class="insta">
+<div class="instagrid">
+  <div class="postsbox">
+
+  </div>
+  <div class="instatext"></div>
+</div>
+ </div>
+-->
+
+
+<div id="faqs" class="questions">
+  <div class="content">
+    <h2>FREQUENTLY ASKED <span class="bold"> QUESTIONS </span></h2>
+    <ul class="qgrid">
+     
+      <li class="faq">
+      <div class="questbox">
+        <strong>Can you tell me more about your design process?</strong>
+        <img class="icon-main" id="faqbut" src="./add.png">
+      </div>
+      <p class="answers non-active">After the deposit of 50% has been paid, you will receive the email confirming the payment and a welcome letter explaining the next steps. Here, you can see the details about the timeline and all the steps of the project, along with the contract.</p>
+      
+    </li>
+    <li class="faq">
+      <div class="questbox">
+        <strong>How long does the work take?</strong>
+        <img class="icon-main" id="faqbut" src="./add.png">
+      </div>
+      <p class="answers non-active">After we have agreed on the creative direction and I received all the logo and packaging files, It usually takes up to 7 business days for product rendering work and up to 14 for motion graphics, exluding the revision time. The timeline of the project will depend on the scope of work, so please contact me first to find out the details.</p>
+      
+    </li>
+      <li class="faq">
+      <div class="questbox">
+        <strong>Is it true that you don't need the physical products for your work?</strong>
+        <img class="icon-main" id="faqbut" src="./add.png">
+      </div>
+      <p class="answers non-active">Yes, that's right! To recreate your product in 3D, I need the photo from side and front as well as your logo design file. if the product is under development and you don't have it at hand yet, the packaging design file will suffice.</p>
+      
+    </li>
+      <li class="faq">
+      <div class="questbox">
+        <strong>What if I don't have a creative strategy and don't know exactly what I want to see in the final images?</strong>
+        <img class="icon-main" id="faqbut" src="./add.png">
+      </div>
+      <p class="answers non-active">If you are not sure about how to get the best visual results and what kind of visuals would help you achieve your goals, you can order the development of the creative visual direction including the image references and creative strategy. The creative direction is calculated separately from the renderings. Please tell me a couple of words about your brand and the product range in the contact form to get a more detailed quote.</p>
+     
+    </li>
+      <li class="faq">
+      <div class="questbox">
+        <strong>What is 3D and how does it work?</strong>
+        <img class="icon-main" id="faqbut" src="./add.png">
+      </div>
+<p class="answers non-active">3D modeling / CGI - это процесс создания трехмерных цифровых моделей объектов или сцен. В 3D моделировании создается виртуальное трехмерное представление реальных объектов. 3D используется для создания прототипов продуктов и машин, моделируются продукты, упаковки и сцены для создания реалистичных и привлекательных рекламных материалов, баннеров, видеороликов и обложек. Это позволяет представить продукты в наилучшем свете и привлечь внимание потенциальных покупателей.
+
+  
+</p>
+    </ul>
+  </div>
+</div>
+
+<!--Connect
+-->
+<div class="connecting">
+  <div class="content">
+    <h4>GET FREE CONSULTATION</h4>
+    <div class="followicons">
+      <a href="https://www.behance.net/anaorlova"><img src="./behance.png"></a>
+      <a href="https://www.instagram.com/cg_product_photography"><img src="./instagram.png"></a>
+      <a href="https://bit.ly/4bjtnpV"><img src="./whatsapp.png"></a>
+      <a href="https://bit.ly/3uim69b"><img src="./telegram.png"></a>
+    </div>
+  </div>
+</div>
+
+ <!-- Gallery-->
+ <div class="gallery">
+  <img src="./hourglass-cgi-3d-product-photography-anastasia-orlova.png">
+  <img src="./givenchypencil-aorlova-3d-product-photography.png">
+  <img src="./LANEIGE_DROPS-cgi-3d-render.png">
+  <img src="./3rings.png">
+  <img src="./rare.png">
+  <img id="lastchild" src="./anastasia_orlova_3d_design_product_photography_givenchy-vases copyGRIT.png">
+
+ </div>
+
+
+    <!-- Footer -->
+    <footer>
+      <div class="content">
+        <span class="copyright">© 2024  Anastasia Orlova, All Rights Reserved</span>
+        <span class="connect">anastasia_orl@hotmail.com</span>
+      </div>
+    </footer>
+
+  </div>
+
+<script src="script.js"></script>
+  </body>
+</html>
